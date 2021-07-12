@@ -2,7 +2,7 @@ namespace:
   name: test
  
 image:
-  repository: iJoshy/python-helloworld 
+  repository: ijoshy/python-helloworld 
   tag: v1.0.0
 
 replicaCount: 3
